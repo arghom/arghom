@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Argho!</h1>
+<h1 align="center">Hi 👋 I'm Argho!</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a senior at UMD expecting to graduate in May 2025.<br><br>🎯 I’m currently working on Allergy Averter, an AI-powered application that transforms any recipe into an allergy-free one.<br><br>📚 Learning: React, Flask, and how to best utilize GenAI!<br><br>📫  Contact me @ mullick.argho@gmail.com</p>
+<p align="left">📌 I'm a senior at UMD expecting to graduate in May 2025.<br><br>🎯 I’m currently working on Allergy Averter, an AI-powered application that transforms any recipe into an allergy-free one.<br><br>📚 Learning: React, Flask, and how to best utilize GenAI!<br><br>📫  Contact me @ mullick.argho@gmail.com</p>
 
 ###
 
